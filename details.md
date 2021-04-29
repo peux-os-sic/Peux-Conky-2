@@ -1,0 +1,1 @@
+Conky configuration from Peux OS LXQt 21.01. You'll have to correct the path in the autostart/wm-configuration. The repository can be found at https://github.com/peux-os-sic/Peux-Conky-2.
